@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-borges-009a38239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <div align="center">
-<br><p align="centre"><b>Visitantes Count</b></p>  
+<br><p align="centre"><b>Visitantes </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Vitor4863}/count.svg" /></p> 
 <br></div>
 
