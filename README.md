@@ -13,6 +13,7 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+   <img align="center" height="30" width="40" src="<a href="https://www.flaticon.com/br/icones-gratis/postgre" title="postgre ícones">Postgre ícones criados por Freepik - Flaticon</a>">
    
    
   
