@@ -1,8 +1,6 @@
 <!-- 🚀 PERFIL GITHUB FUTURISTA - JOÃO VITOR BORGES -->
 <!-- Banner personalizado -->
-<div align="center">
-  <img src="https://i.imgur.com/Pl4T9aC.png" alt="João Vitor Borges Banner" width="100%">
-</div>
+
 
 ##
 
