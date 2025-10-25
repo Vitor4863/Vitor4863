@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center" class="sub-neon">
-  Analista & Engenheiro de Dados • Criador de Soluções Inteligentes
+  Analista & Engenheiro de Dados 
 </h3>
 
 ---
