@@ -52,9 +52,7 @@
 
 ---
 
-<h3 align="center" class="final-neon">
-  ⚡ “Transformando dados em decisões e código em soluções.”
-</h3>
+
 
 ---
 
