@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <a href="https://github.com/Vitor4863">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor4863&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -23,10 +21,10 @@
 
 <div align="center">
   <h3>📫 Onde me encontrar</h3>
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-borges-009a38239/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:joaovitorborges4863@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
   </a>
 </div>
