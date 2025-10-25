@@ -56,32 +56,4 @@
   </span>
 </h3>
 
----
 
-<!-- Estilo Futurista -->
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
-
-h1, h2, h3 {
-  font-family: 'Orbitron', sans-serif;
-  letter-spacing: 1px;
-}
-
-img:hover {
-  transform: scale(1.1);
-  transition: 0.4s ease-in-out;
-}
-
-a:hover img {
-  filter: drop-shadow(0 0 10px #8A2BE2);
-}
-
-div {
-  animation: glow 3s infinite alternate;
-}
-
-@keyframes glow {
-  from { box-shadow: 0 0 10px #8A2BE2; }
-  to { box-shadow: 0 0 25px #00FFFF; }
-}
-</style>
