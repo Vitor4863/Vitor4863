@@ -14,10 +14,14 @@
 
 ## ⚙️ Estatísticas do GitHub
 <div align="center">
-  <a href="https://github.com/Vitor4863">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vitor4863&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor4863&layout=compact&langs_count=7&theme=dark"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor4863&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_title=false&border_radius=25&bg_color=0f0f1f&text_color=00ffe7&icon_color=ff00ff&hide_border=false" />
+
+  <br><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor4863&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=false&bg_color=0f0f1f&border_radius=25&text_color=00ffe7" />
+
 </div>
+
 ---
 
 ## 🧠 Tecnologias & Ferramentas
