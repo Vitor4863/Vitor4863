@@ -13,10 +13,26 @@
 ---
 
 ## ⚙️ Estatísticas do GitHub
-<div align="center">
+<div align="center" style="background: radial-gradient(circle at top, #0f0f1f, #1a1a2e); padding: 40px; border-radius: 30px; box-shadow: 0 0 50px #00ffe7, 0 0 100px #ff00ff;">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor4863&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_title=false&border_radius=25&bg_color=0f0f1f&text_color=00ffe7&icon_color=ff00ff&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor4863&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=false&bg_color=0f0f1f&border_radius=25&text_color=00ffe7" />
+  <!-- Título futurista -->
+  <h1 style="color: #00ffe7; text-shadow: 0 0 10px #00ffe7, 0 0 20px #ff00ff;">Painel Futurista de Stats</h1>
+  
+  <br>
+
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor4863&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=false&border_radius=25&bg_color=0f0f1f&text_color=00ffe7&icon_color=ff00ff&hide_border=false" style="box-shadow: 0 0 20px #00ffe7, 0 0 40px #ff00ff; border: 2px solid #00ffe7;" />
+
+  <br><br>
+
+ 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor4863&layout=compact&langs_count=7&theme=dark&hide_border=false&bg_color=0f0f1f&border_radius=25&text_color=00ffe7" style="box-shadow: 0 0 20px #00ffe7, 0 0 40px #ff00ff; border: 2px solid #ff00ff;" />
+
+  <br><br>
+
+  <p style="color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #00ffe7; font-size: 18px;">
+    Bem-vindo ao meu universo de código 💻✨
+  </p>
 
 </div>
 
