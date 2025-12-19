@@ -13,20 +13,24 @@
 ---
 
 ## ⚙️ Estatísticas do GitHub
-<div align="center" style="background: radial-gradient(circle at top, #0f0f1f, #1a1a2e); padding: 40px; border-radius: 30px; box-shadow: 0 0 50px #00ffe7, 0 0 100px #ff00ff;">
 
+<div align="center" style="position: relative; overflow: hidden; border-radius: 30px; padding: 40px; background: radial-gradient(circle at top, #0f0f1f, #1a1a2e); box-shadow: 0 0 50px #00ffe7, 0 0 100px #ff00ff;">
 
+  <!-- Perolas caindo como GIF transparente sobre o fundo -->
+  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; pointer-events: none; z-index: 1;" />
 
+  <div style="position: relative; z-index: 2;">
+
+    <!-- Stats Card com glow neon -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor4863&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=false&border_radius=25&bg_color=0f0f1f&text_color=00ffe7&icon_color=ff00ff&hide_border=false" style="box-shadow: 0 0 20px #00ffe7, 0 0 40px #ff00ff; border: 2px solid #00ffe7;" />
+
+    <br><br>
+
+    <!-- Top Languages com glow -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor4863&layout=compact&langs_count=7&theme=dark&hide_border=false&bg_color=0f0f1f&border_radius=25&text_color=00ffe7" style="box-shadow: 0 0 20px #00ffe7, 0 0 40px #ff00ff; border: 2px solid #ff00ff;" />
+
+  </div>
   
-
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor4863&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=false&border_radius=25&bg_color=0f0f1f&text_color=00ffe7&icon_color=ff00ff&hide_border=false" style="box-shadow: 0 0 20px #00ffe7, 0 0 40px #ff00ff; border: 2px solid #00ffe7;" />
-
-
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor4863&layout=compact&langs_count=7&theme=dark&hide_border=false&bg_color=0f0f1f&border_radius=25&text_color=00ffe7" style="box-shadow: 0 0 20px #00ffe7, 0 0 40px #ff00ff; border: 2px solid #ff00ff;" />
-
-
 </div>
 
 ---
