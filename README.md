@@ -26,11 +26,6 @@
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor4863&layout=compact&langs_count=7&theme=dark&hide_border=false&bg_color=0f0f1f&border_radius=25&text_color=00ffe7" style="box-shadow: 0 0 20px #00ffe7, 0 0 40px #ff00ff; border: 2px solid #ff00ff;" />
 
-  <br><br>
-
-  <p style="color: #ff00ff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #00ffe7; font-size: 18px;">
-    Bem-vindo ao meu universo de código 💻✨
-  </p>
 
 </div>
 
