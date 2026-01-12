@@ -10,7 +10,7 @@
 
 ---
 
-## ⚙️ Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🧠 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" width="65" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="55" width="65" alt="R"/>
@@ -39,7 +39,7 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## Conecte-se comigo
 <div align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-borges-009a38239/" target="_blank">
     <img src="https://img.shields.io/badge/-João%20Vitor%20Borges-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
