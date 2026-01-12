@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.ibb.co/GVbz5dx/cyber-banner.gif" width="100%" alt="Cyber Futurista Banner">
-</p>
+
 
 <h1 align="center" class="neon-text">
    João Vitor Borges
