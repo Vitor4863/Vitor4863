@@ -1,5 +1,5 @@
-
-
+   
+ <img src="Logo.png" width="100%"> <br>
 <h1 align="center" class="neon-text">
    João Vitor Borges
 </h1>
