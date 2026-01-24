@@ -1,14 +1,6 @@
    
  <img src="Logo.png" width="100%"> <br>
-<h1 align="center" class="neon-text">
-   João Vitor Borges
-</h1>
 
-<h3 align="center" class="sub-neon">
-  Analista & Engenheiro de Dados 
-</h3>
-
----
 
 ##  Estatísticas do GitHub
 
